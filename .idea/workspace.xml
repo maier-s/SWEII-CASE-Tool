@@ -1,18 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96ed8b3d-1c3e-475e-bb4e-de0e3d7acae9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Dokumente/.~Fragen.docx" afterDir="false" />
-    </list>
+    <list default="true" id="96ed8b3d-1c3e-475e-bb4e-de0e3d7acae9" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Florian S &lt;33376496+lpetflo@users.noreply.github.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1bDMj4N1haIxeEpHqPmgVKYSQjM" />
+  <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -44,7 +54,53 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588162343163</updated>
+      <workItem from="1588162712024" duration="323000" />
     </task>
+    <task id="LOCAL-00001" summary="Test commit">
+      <created>1588162792371</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588162792371</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Test commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="148" y="147" key="CommitChangelistDialog2" timestamp="1588162792176">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="148" y="147" key="CommitChangelistDialog2/0.23.1792.1097@0.23.1792.1097" timestamp="1588162792176" />
+    <state width="1750" height="303" key="GridCell.Tab.0.bottom" timestamp="1588162853813">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="303" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1588162853813" />
+    <state width="1750" height="303" key="GridCell.Tab.0.center" timestamp="1588162853812">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="303" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1588162853812" />
+    <state width="1750" height="303" key="GridCell.Tab.0.left" timestamp="1588162853811">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="303" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1588162853811" />
+    <state width="1750" height="303" key="GridCell.Tab.0.right" timestamp="1588162853812">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="303" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1588162853812" />
+    <state x="496" y="311" key="Vcs.Push.Dialog.v2" timestamp="1588162796001">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="496" y="311" key="Vcs.Push.Dialog.v2/0.23.1792.1097@0.23.1792.1097" timestamp="1588162796001" />
+    <state x="684" y="481" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588162845249">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="684" y="481" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1792.1120@0.0.1792.1120" timestamp="1588162845249" />
   </component>
 </project>
