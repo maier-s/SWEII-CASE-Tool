@@ -1,15 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96ed8b3d-1c3e-475e-bb4e-de0e3d7acae9" name="Default Changelist" comment="" />
+    <list default="true" id="96ed8b3d-1c3e-475e-bb4e-de0e3d7acae9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dokumente/Design/.CASE_Tool_SystemDesign.vpp.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWEII-CASE-Tool/META-INF/SWEII-CASE-Tool.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWEII-CASE-Tool/com/intellij/uiDesigner/core/AbstractLayout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWEII-CASE-Tool/com/intellij/uiDesigner/core/DimensionInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWEII-CASE-Tool/com/intellij/uiDesigner/core/GridConstraints.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWEII-CASE-Tool/com/intellij/uiDesigner/core/GridLayoutManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWEII-CASE-Tool/com/intellij/uiDesigner/core/HorizontalInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWEII-CASE-Tool/com/intellij/uiDesigner/core/LayoutState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWEII-CASE-Tool/com/intellij/uiDesigner/core/Spacer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWEII-CASE-Tool/com/intellij/uiDesigner/core/SupportCode$TextWithMnemonic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWEII-CASE-Tool/com/intellij/uiDesigner/core/SupportCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWEII-CASE-Tool/com/intellij/uiDesigner/core/Util.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SWEII-CASE-Tool/com/intellij/uiDesigner/core/VerticalInfo.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="CASE-Tool" />
+  </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="Florian Schiffel &lt;fschiffel@googlemail.com&gt;" />
         <option value="Florian S &lt;33376496+lpetflo@users.noreply.github.com&gt;" />
       </list>
     </option>
@@ -29,6 +48,10 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
     <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -55,6 +78,13 @@
       <option name="presentableId" value="Default" />
       <updated>1588162343163</updated>
       <workItem from="1588162712024" duration="323000" />
+      <workItem from="1589370066434" duration="350000" />
+      <workItem from="1589370886550" duration="46000" />
+      <workItem from="1589370945397" duration="194000" />
+      <workItem from="1589371155556" duration="234000" />
+      <workItem from="1589371662794" duration="23000" />
+      <workItem from="1589371699294" duration="15000" />
+      <workItem from="1589371726698" duration="205000" />
     </task>
     <task id="LOCAL-00001" summary="Test commit">
       <created>1588162792371</created>
@@ -67,33 +97,43 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test commit" />
     <option name="LAST_COMMIT_MESSAGE" value="Test commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="148" y="147" key="CommitChangelistDialog2" timestamp="1588162792176">
-      <screen x="0" y="23" width="1792" height="1097" />
+    <state x="495" y="208" key="#Custom_Plugin_Repositories" timestamp="1589371902126">
+      <screen x="0" y="0" width="1792" height="1120" />
     </state>
+    <state x="495" y="208" key="#Custom_Plugin_Repositories/0.0.1792.1120@0.0.1792.1120" timestamp="1589371902126" />
+    <state x="148" y="127" key="CommitChangelistDialog2" timestamp="1589372122563">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="148" y="127" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1589372122563" />
     <state x="148" y="147" key="CommitChangelistDialog2/0.23.1792.1097@0.23.1792.1097" timestamp="1588162792176" />
-    <state width="1750" height="303" key="GridCell.Tab.0.bottom" timestamp="1588162853813">
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom" timestamp="1589372122604">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="303" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1588162853813" />
-    <state width="1750" height="303" key="GridCell.Tab.0.center" timestamp="1588162853812">
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1589372122604" />
+    <state width="1750" height="318" key="GridCell.Tab.0.center" timestamp="1589372122603">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="303" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1588162853812" />
-    <state width="1750" height="303" key="GridCell.Tab.0.left" timestamp="1588162853811">
+    <state width="1750" height="318" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1589372122603" />
+    <state width="1750" height="318" key="GridCell.Tab.0.left" timestamp="1589372122603">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="303" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1588162853811" />
-    <state width="1750" height="303" key="GridCell.Tab.0.right" timestamp="1588162853812">
+    <state width="1750" height="318" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1589372122603" />
+    <state width="1750" height="318" key="GridCell.Tab.0.right" timestamp="1589372122604">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="303" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1588162853812" />
+    <state width="1750" height="318" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1589372122604" />
+    <state x="397" y="180" key="SettingsEditor" timestamp="1589371932134">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="397" y="180" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1589371932134" />
+    <state x="397" y="199" key="SettingsEditor/0.23.1792.1097@0.23.1792.1097" timestamp="1589370412680" />
     <state x="496" y="311" key="Vcs.Push.Dialog.v2" timestamp="1588162796001">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
